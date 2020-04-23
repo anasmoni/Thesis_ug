@@ -1,0 +1,7 @@
+https://github.com/GeorgeSeif
+
+
+https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/
+
+
+https://github.com/scikit-learn/scikit-learn/blob/95d4f0841/sklearn/feature_selection/_mutual_info.py#L374

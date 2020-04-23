@@ -151,12 +151,16 @@ void Input_Attack_Prob(){
     in.close();
 }
 
+
 int main()
 {
+
+
     ///freopen("output.txt","w",stdout);
     ///freopen("input.txt","r",stdin);
 
     //FastIO;
+
     Input_features();
     Calc_f_x_y();
     Input_Attack_Prob();
